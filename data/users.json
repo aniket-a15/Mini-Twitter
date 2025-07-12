@@ -1,0 +1,155 @@
+[
+  {
+    "id": "296bfddd-0015-48ad-9e61-3b039ca8f958",
+    "name": "SportsFan",
+    "username": "SportsFan",
+    "password": "1",
+    "following": [],
+    "genre": "Sports"
+  },
+  {
+    "id": "f3bd72ea-39d9-42e3-bda4-38ee0856c9fb",
+    "name": "Coach99",
+    "username": "Coach99",
+    "password": "1",
+    "following": [],
+    "genre": "Sports"
+  },
+  {
+    "id": "c841029c-c5b0-4869-b122-04dad8d97868",
+    "name": "ProPlayer24",
+    "username": "ProPlayer24",
+    "password": "1",
+    "following": [],
+    "genre": "Sports"
+  },
+  {
+    "id": "770ad81d-a220-4e0c-9c16-791d8cd1ada1",
+    "name": "TechieTom",
+    "username": "TechieTom",
+    "password": "1",
+    "following": [],
+    "genre": "Technology"
+  },
+  {
+    "id": "668f09b1-3563-4e5f-953f-4272e4ce38c0",
+    "name": "CodeCraft",
+    "username": "CodeCraft",
+    "password": "1",
+    "following": [],
+    "genre": "Technology"
+  },
+  {
+    "id": "ade1ae0b-c476-40ac-9f0f-5994afb68240",
+    "name": "AI_Brain",
+    "username": "AI_Brain",
+    "password": "1",
+    "following": [],
+    "genre": "Technology"
+  },
+  {
+    "id": "cb1e5f69-fa0a-4554-bf2e-353a2df09837",
+    "name": "NewsRadar",
+    "username": "NewsRadar",
+    "password": "1",
+    "following": [],
+    "genre": "News"
+  },
+  {
+    "id": "8fec6eb6-6196-4b49-b2b8-ca7bc4450fd6",
+    "name": "TheBulletin",
+    "username": "TheBulletin",
+    "password": "1",
+    "following": [],
+    "genre": "News"
+  },
+  {
+    "id": "a535fd40-24b3-4bd0-a2f6-89fd29c73a65",
+    "name": "DailyPulse",
+    "username": "DailyPulse",
+    "password": "1",
+    "following": [],
+    "genre": "News"
+  },
+  {
+    "id": "e74e0de0-c8f6-4597-b7b5-18f00b2cab6b",
+    "name": "CineBuzz",
+    "username": "CineBuzz",
+    "password": "1",
+    "following": [],
+    "genre": "Entertainment"
+  },
+  {
+    "id": "fa7a8995-7476-4c1d-bee6-dd0a2dc91c2e",
+    "name": "MusicMuse",
+    "username": "MusicMuse",
+    "password": "1",
+    "following": [],
+    "genre": "Entertainment"
+  },
+  {
+    "id": "8047be67-19b7-4803-b40f-f7e9c7b16e58",
+    "name": "ShowTimez",
+    "username": "ShowTimez",
+    "password": "1",
+    "following": [],
+    "genre": "Entertainment"
+  },
+  {
+    "id": "f183c80c-65c8-48bf-b279-80a3358a665e",
+    "name": "LearnWithMe",
+    "username": "LearnWithMe",
+    "password": "1",
+    "following": [],
+    "genre": "Education"
+  },
+  {
+    "id": "ed16d590-0ca6-47a9-90ab-d406cc50c776",
+    "name": "EduNerd",
+    "username": "EduNerd",
+    "password": "1",
+    "following": [],
+    "genre": "Education"
+  },
+  {
+    "id": "79e775b3-def0-496b-b14e-8d4a7dc59e58",
+    "name": "MemeMachine",
+    "username": "MemeMachine",
+    "password": "1",
+    "following": [],
+    "genre": "Memes"
+  },
+  {
+    "id": "1f5f39ec-55bd-4959-8053-09fb3878effa",
+    "name": "JustForLOLZ",
+    "username": "JustForLOLZ",
+    "password": "1",
+    "following": [],
+    "genre": "Memes"
+  },
+  {
+    "id": "c5518d91-559c-464c-bfe7-bca64f59fd16",
+    "name": "RelatableAF",
+    "username": "RelatableAF",
+    "password": "1",
+    "following": [],
+    "genre": "Memes"
+  },
+  {
+    "id": "dce9d1a4-95c1-4266-9bbc-0b15945d15f2",
+    "name": "Mimansha",
+    "username": "mimu",
+    "password": "mimu5678",
+    "following": [
+      "ade1ae0b-c476-40ac-9f0f-5994afb68240"
+    ],
+    "genre": "News, Entertainment, Memes, Technology",
+    "genrePreference": {
+      "Tech": 1,
+      "Entertainment": 1
+    },
+    "authorAffinity": {
+      "ade1ae0b-c476-40ac-9f0f-5994afb68240": 1
+    }
+  }
+]
